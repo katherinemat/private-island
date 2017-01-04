@@ -1,0 +1,17 @@
+h1 {
+  font-family: fantasy;
+  color: green;
+}
+
+img {
+  height: 200px;
+  width: 300px;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #42cbf4;
+}
